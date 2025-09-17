@@ -21,7 +21,7 @@ Users can add items to the cart, view totals, and interact with a modern, respon
 
 ## How to Use
 
-1. Open the live app: [Add to Cart App](https://ruchit1806.github.io/Add-to-Cart/)
+1. Open the live app: [Add to Cart App]( https://ruchit1806.github.io/Add-to-cart-feature-/)
 2. Browse the items and click “Add to Cart” to add products.
 3. View your cart and totals in real-time.
 
